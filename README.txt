@@ -1,1 +1,0 @@
-This python program runs through all the allocated pages of the SEIA website to scrabe the company data in the directory.

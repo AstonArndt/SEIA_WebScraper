@@ -1,0 +1,1 @@
+This python program runs through all the allocated pages of the SEIA website to collect the company name and data in the directory.
